@@ -10,8 +10,7 @@ A simple Android application for managing your tasks. This application allows us
 
 ## Installation
 
-1. Clone the repository:
-
+1. Clone the repository: https://github.com/dilaxshinidunstan/ToDoListApplication.git
 2. Open the project in Android Studio.
 3. Build and run the application on your Android device or emulator.
 
@@ -64,3 +63,6 @@ The application uses SQLite to store tasks. The database schema includes the fol
 
 - **RecyclerView**: To display the list of tasks.
 - **SQLite**: To manage task data storage.
+
+## Contact
+For any inquiries, please contact dilaxshini16dunstan@gmail.com. 
